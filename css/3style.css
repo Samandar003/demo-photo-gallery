@@ -1,0 +1,28 @@
+#rgb {
+    font-weight: lighter;
+    font-weight: 400;
+}
+
+#rgba {
+    font-size: 40px;
+    font-weight: lighter;
+    font-style: inherit;
+    text-transform: uppercase;
+} 
+
+#hex {
+ font-size: 50px;
+ font-weight: normal;
+ font-decoration: overline;
+
+}
+
+p {
+    background-color: lemonchiffon;
+    color: lawngreen;
+} 
+
+p {
+    background-color: indigo;
+    color: lavender;
+}
